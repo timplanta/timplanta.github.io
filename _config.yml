@@ -276,9 +276,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: learning resources
+      type: learning resource
     values:
-      layout: talk
+      layout: learning resource
       author_profile: true
       share: true
 

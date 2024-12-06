@@ -221,7 +221,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  learning resources:
+  learning resource:
     output: true
     permalink: /:collection/:path/
 

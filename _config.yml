@@ -221,7 +221,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  learning resources:
     output: true
     permalink: /:collection/:path/
 
@@ -276,7 +276,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: learning resources
     values:
       layout: talk
       author_profile: true

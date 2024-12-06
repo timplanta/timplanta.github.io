@@ -13,9 +13,10 @@ I am super interested in both math and biology, and I am typically interested in
 *	**Plant physiology**: Plant circadian oscillators and photoperiodism, how metabolism and physiological signal regulating growth and development in plants interplay.
 *	**Dynamical systems**: Applied dynamical systems in biology. Oscillators. Stochastic dynamical systems and oscillation. Hamiltonian systems.
 *	**Applied statistics**: Applied statistical learning in forestry and in genomic research.
-Check my publications (here)[https://timplanta.github.io/publications/], which will be updated constantly.
 
-Outside my research, I am a nature lover and am super passionate about nature photography. The natural resource in Hong Kong is really suitable for hiking and photography. I will sometime post some interesting photos in the (portfolio)[https://timplanta.github.io/portfolio/].
+Check my publications [here](https://timplanta.github.io/publications/), which will be updated constantly.
 
-I will constantly upload some interesting thoughts here. As a math lover, I have also made a series of notes as well as resources for self-studiers like me. They can be fetched (here)[https://timplanta.github.io/publications/].
+Outside my research, I am a nature lover and am super passionate about nature photography. The natural resource in Hong Kong is really suitable for hiking and photography. I will sometime post some interesting photos in the [portfolio](https://timplanta.github.io/portfolio/).
+
+I will constantly upload some interesting thoughts here. As a math lover, I have also made a series of notes as well as resources for self-studiers like me. They can be fetched [here](https://timplanta.github.io/publications/).
 

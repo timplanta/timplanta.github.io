@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Profile.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Shaoti (Tim) SUI"
+  pronouns         : "He/Him/His"  
+  bio              : "Research assistance in GEARS Lab, HKU School of Biological Science. Plant physiologist, computational and quantitative biologist."
   location         : "Hong Kong"
   employer         : "the University of Hong Kong"
   uri              : # URL

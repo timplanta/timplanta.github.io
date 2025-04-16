@@ -10,9 +10,6 @@ main:
 
   - title: "Learning Resources"
     url: /resource/       
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
